@@ -1,0 +1,18 @@
+{
+	"schooldetails": [
+					{
+						"image": "images/gs_logo.png",
+						"title": "Prathamik Vidyalay Bariyatha",
+						"schooltype": "primary",
+						"schoolmedium": "Hindi",
+						"state": "UP"
+					},
+					{
+						"image": "images/gs_logo.png",
+						"title": "High School Saidapur",
+						"schooltype": "primary",
+						"schoolmedium": "English",
+						"state": "Bihar"
+					}
+				]
+}
